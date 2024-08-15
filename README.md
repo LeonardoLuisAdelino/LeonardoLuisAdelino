@@ -1,7 +1,8 @@
 ### Olá, eu sou Leonardo Luis 👋
 
 
-- 🖥️ Estou atualmente aprendendo HTML/CSS e JavaScript
+- 🖥️ Estou atualmente aprendendo Java/Spring Boot e Cypress
+- 📚 Cursando Ciencia da Computação
 - 😄 Pronomes: Ele/Dele
 
 <div align="center">
