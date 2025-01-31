@@ -39,5 +39,5 @@
   <div> 
     <div style="display: inline_block"><br>
     <h1>Contate-me:<h1>
-  <a href="https://www.linkedin.com/in/leonardo-luis-lopes-adelino-198737210/"target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/leonardo-luis-lopes-adelino-198737210/target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"target="_blank"></a> 
 </div>
