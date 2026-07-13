@@ -2,8 +2,8 @@
 
 
 - 🛠️ Atualmente trabalhando com a ferramenta Robot_Framework
-- 🖥️ Estou atualmente aprendendo Cucumber
-- 📚 Cursando Ciencia da Computação
+- 🖥️ Estou atualmente aprendendo TypeScript
+- 📚 Cursando Sistemas da Informação
 - 😄 Pronomes: Ele/Dele
 
 <div align="center">
