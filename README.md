@@ -1,7 +1,7 @@
 ### Olá, eu sou Leonardo Luis 👋
 
 
-- 🛠️ Atualmente trabalhando com a ferramenta Robot_Framework
+- 🛠️ Atualmente trabalhando com a ferramenta Robot_Framework e Cypress
 - 🖥️ Estou atualmente aprendendo TypeScript
 - 📚 Cursando Sistemas da Informação
 - 😄 Pronomes: Ele/Dele
